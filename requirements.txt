@@ -1,0 +1,5 @@
+# pypdf y PDFium se incluyen en vendor para uso sin conexion.
+# Alternativa para preparar otra instalacion desde PyPI:
+pypdf==6.10.0
+pypdfium2==5.14.0
+Pillow>=11,<13
